@@ -14,7 +14,7 @@
 # define GET_NEXT_LINE_H
 # include "libft/libft.h"
 # include <unistd.h>
-# define BUFF_SIZE 50000
+# define BUFF_SIZE 32
 
 typedef struct			s_fd_item
 {
